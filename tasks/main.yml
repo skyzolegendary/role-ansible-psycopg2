@@ -1,0 +1,5 @@
+---
+- name: install package
+  apt:
+    name: python3-psycopg2
+    state: present

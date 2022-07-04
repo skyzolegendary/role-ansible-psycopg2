@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  role_name: python-psycopg2
+  author: Quentin GUYON
+  description: Install abnd configure python-psycopg2
+  min_ansible_version: 2.9
+  platforms:
+    - name: Debian
+    - name: Ubuntu
+  galaxy_tags: []
